@@ -11,6 +11,7 @@ function Ball()
 	team = [1,3,2,5,5,2,3,1];
 	teamLocation = [0,0,0,0,0,0,45,0,24];
 	kickForce = 10;
+	trialVar= 30;####To be removed
 
 	this.setupPlayers = function()
 	{
