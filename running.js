@@ -3,8 +3,8 @@ function Ball()
 	//Use screen.width in the final version
 	this.x = width/2;
 	this.y = height/2;
-	this.xspeed = 1;
-	this.yspeed = 2;
+	this.xspeed = 6;
+	this.yspeed = 6;
 	this.aGoals = 0;
 	this.bGoals = 0;
 
