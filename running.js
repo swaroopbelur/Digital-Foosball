@@ -9,8 +9,8 @@ function Ball()
 	this.bGoals = 0;
 
 	team = [1,3,2,5,5,2,3,1];
-	teamLocation = [0,0,0,0,0,0,0,0,0];
-	kickForce = 30;
+	teamLocation = [0,0,0,0,0,0,45,0,24];
+	kickForce = 10;
 
 	this.setupPlayers = function()
 	{
